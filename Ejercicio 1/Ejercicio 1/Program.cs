@@ -15,10 +15,10 @@ namespace Ejercicio_1
                 Console.Clear();
                 Console.WriteLine("Elige una opcion");
                 Console.WriteLine("\n");
-                Console.WriteLine("1)Agregar Tema");
-                Console.WriteLine("2)Buscar");
-                Console.WriteLine("3)Eliminar Datos");
-                Console.WriteLine("4)Mostrar Todos las definiciones");
+                Console.WriteLine("1)Ingresar Datos");
+                Console.WriteLine("2)Mostrar Datos");
+                Console.WriteLine("3)Buscar Cliente");
+                Console.WriteLine("4)Salir");
 
                 switch (Console.ReadLine())
                 {
